@@ -1,0 +1,14 @@
+{
+  "name": "inquiryinsiders",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start":"index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
